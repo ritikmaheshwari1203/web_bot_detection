@@ -1,3 +1,12 @@
 env
 web_bot_detection_dataset.zip
 web_bot_detection_dataset
+public_v2.json
+processed_test_data.csv
+processed_train_data.csv
+__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+.gitignore
